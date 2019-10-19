@@ -16,11 +16,11 @@
     <PackageId>BIT.Sqlite.MultiTarget</PackageId>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
-    <authors>Jose Manuel Ojeda Melgar</authors>
-    <Owners>Jose Manuel Ojeda Melgar</Owners>
-    <Description>This NuGet includes all the necessary NuGet references to use SQLite with XPO. After install this NuGet you still need to install your preferred version of XPO </Description>
-    <Version>2019.1.1</Version>
-    <!--<AndroidNdkDirectory>"C:\\Users\\Joche\\AppData\\Local\\Android\\Sdk\\ndk\\20.0.5594570"</AndroidNdkDirectory>-->
+    <authors>José Manuel Ojeda Melgar</authors>
+    <Owners>José Manuel Ojeda Melgar</Owners>
+    <Description>This NuGet includes all the necessary NuGet references to use SQLite with XPO on Android,iOS and UWP. After install this NuGet you still need to install your preferred version of XPO </Description>
+    <Version>1.1.12</Version>
+ 
   </PropertyGroup>
   <ItemGroup>
     <None Include="ReadMe.txt" pack="true" PackagePath="." />
